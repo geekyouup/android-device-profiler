@@ -1,0 +1,1 @@
+Displays the device profile ldpi/mdpi/hdpi small/medium/large etc..
